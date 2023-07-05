@@ -21,5 +21,5 @@ def _name_clipping(current_name: str, name_min: int, name_max: int) -> str:
     return current_name[name_min:name_max]
 
 
-# def test():
-#    return int('1' + ('0' * 5))
+def test():
+    return int('1' + ('0' * 5))
